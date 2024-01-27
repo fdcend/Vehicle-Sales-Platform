@@ -37,7 +37,7 @@ public class AltaAutomovil extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setResizable(false);
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\fdcen\\Desktop\\NetBeansProjects\\automovil\\img\\pngwing.com.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pngwing.com.png"))); // NOI18N
         jLabel2.setText("jLabel2");
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N

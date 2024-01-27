@@ -1,12 +1,12 @@
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\persistence\exceptions\IllegalOrphanException.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\logic\Controladora.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\gui\ModifAuto.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\persistence\AutomovilJpaController.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\persistence\ControladoraPersistencia.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\gui\AltaAutomovil.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\logic\Automovil.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\persistence\exceptions\NonexistentEntityException.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\gui\Principal.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\persistence\exceptions\PreexistingEntityException.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\Automovil.java
-C:\Users\fdcen\Desktop\NetBeansProjects\automovil\src\main\java\com\fdcm\automovil\gui\ConsultaAutomovil.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\Automovil.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\gui\Principal.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\gui\ModifAuto.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\persistence\exceptions\NonexistentEntityException.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\persistence\AutomovilJpaController.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\logic\Controladora.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\persistence\exceptions\IllegalOrphanException.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\gui\AltaAutomovil.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\gui\ConsultaAutomovil.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\persistence\ControladoraPersistencia.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\persistence\exceptions\PreexistingEntityException.java
+C:\Users\fdcen\Desktop\test clon\Vehicle-Sales-Platform\src\main\java\com\fdcm\automovil\logic\Automovil.java
